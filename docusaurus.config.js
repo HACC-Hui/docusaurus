@@ -1,6 +1,6 @@
 module.exports = {
   title: 'HACC Hui',
-  tagline: 'Documentation for ICS 414 project.',
+  tagline: 'Documentation for the ICS 414 Fall 2020 project.',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   favicon: 'img/hacc.png',
@@ -15,7 +15,7 @@ module.exports = {
       },
       links: [
         {
-          to: 'docs/',
+          to: 'docs/overview/introduction',
           activeBasePath: 'docs',
           label: 'Docs',
           position: 'left',
@@ -41,11 +41,23 @@ module.exports = {
           ],
         },
         {
-          title: 'Community',
+          title: 'Resources',
           items: [
             {
-              label: 'GitHub',
+              label: 'Hawaii Annual Code Challenge 2020',
+              href: 'https://hacc.hawaii.gov',
+            },
+            {
+              label: 'hacc2020.slack.com',
+              href: 'https://hacc2020.slack.com',
+            },
+            {
+              label: 'HACC Hui GitHub',
               href: 'https://github.com/HACC-Hui/',
+            },
+            {
+              label: 'ICS 414 Course Website',
+              href: 'https://courses.ics.hawaii.edu/ics414f20',
             },
           ],
         },

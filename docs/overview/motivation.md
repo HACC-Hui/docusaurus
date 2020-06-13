@@ -3,16 +3,14 @@ title: Motivation
 sidebar_label: Motivation
 ---
 
-The goal of this site is to provide a public repository for documents pertaining to the design, implementation, and evaluation of the ICS 414 Fall 2020 HACC Hui Project. The HACC Hui project consists of a Meteor application and a Slackbot. The Meteor app and Slackbot are running in the same application.
-
 ## ICS 414 Motivation and Goal
 The Hawaii Annual Code Challenge (HACC) has some unique characteristics as a hackathon when it comes to team formation:
 
-In a typical year, over 200 developers attend the kick-off meeting. This size makes it difficult for developers to know each other and form teams through informal mechanisms. While some teams are pre-formed prior to the challenge, there are a substantial number of developers who are not attached to any team.  We believe that this results in some developers not finding a team to work with, as well as some teams not having an optimal set of team members because they could not find a member with appropriate skills. 
+* In a typical year, over 200 developers attend the kick-off meeting. This size makes it difficult for developers to know each other and form teams through informal mechanisms. While some teams are pre-formed prior to the challenge, there are a substantial number of developers who are not attached to any team.  We believe that this results in some developers not finding a team to work with, as well as some teams not having an optimal set of team members because they could not find a member with appropriate skills. 
 
-Developers range from high school students, to college students, to professionals. Different teams may be willing or not willing to allow participation from developers in one or more of these demographics. For example, some high school students may want to only work with other high school students, while other high school students might relish the opportunity to work with college students or professionals. It is hard with informal mechanisms to address this.
+* Developers range from high school students, to college students, to professionals. Different teams may be willing or not willing to allow participation from developers in one or more of these demographics. For example, some high school students may want to only work with other high school students, while other high school students might relish the opportunity to work with college students or professionals. It is hard with informal mechanisms to address this.
 
-Unlike 24 or 48 hour hackathons, where team formation must happen extremely quickly and the cost of bad team assignments is only a weekend of effort, the HACC lasts for a month and the investment of time from developers can be much more substantial.  This means that team formation need not happen in just minutes, and that appropriate team formation has much more significant implications for the success of a team (and the HACC as a whole).
+* Unlike 24 or 48 hour hackathons, where team formation must happen extremely quickly and the cost of bad team assignments is only a weekend of effort, the HACC lasts for a month and the investment of time from developers can be much more substantial.  This means that team formation need not happen in just minutes, and that appropriate team formation has much more significant implications for the success of a team (and the HACC as a whole).
 
 For the past four years, team formation at HACC has been ad-hoc and informal.  Some techniques for team formation have included:
 
@@ -34,9 +32,9 @@ The initial goal of the HACC Hui system is to provide an easy-to-use system that
 
 Given (1) and (2),  HACC Hui can: 
 
- 1. show current teams a list of prospective new team members with interests matching their needs, and 
+ 1. Show current teams a list of prospective new team members with interests matching their needs, and 
 
- 2. current developers a set of teams who might want their skills. Participants use this set of matches to contact each other in Slack to pursue the matching process further. This is expected to accelerate the process of team formation, reduce the number of participants who never find a team, and produce higher quality, higher functioning teams. 
+ 2. Current developers a set of teams who might want their skills. Participants use this set of matches to contact each other in Slack to pursue the matching process further. This is expected to accelerate the process of team formation, reduce the number of participants who never find a team, and produce higher quality, higher functioning teams. 
 
 ### Future Goals
 
