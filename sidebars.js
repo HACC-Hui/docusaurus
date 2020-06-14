@@ -8,6 +8,6 @@ module.exports = {
         items: ['requirements/installers','requirements/administrators', 'requirements/developers', 'requirements/future'],
       },
     ],
-    DeveloperGuide: ['meteor-app/installation'],
+    DeveloperGuide: ['meteor-app/installation', 'slackbot/create-hacc-hui-slackbot', 'meteor-app/running-hacc-hui'],
   },
 };

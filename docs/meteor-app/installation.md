@@ -2,7 +2,7 @@
 title: Installation
 sidebar_label: Installation
 ---
-## HACC Hui Application
+## HACC Hui Meteor Application
 
 First, download and install [Meteor](https://www.meteor.com/). 
 
@@ -42,12 +42,11 @@ To run the system, invoke this command:
 
 ```
 HACC-Hui/app$ meteor npm run start
-HACC-Hui/app$ meteor npm run start
 
-> hacchui@ start /Users/carletonmoore/Documents/GitHub/HACC-Hui/HACC-Hui/app
+> hacchui@ start ~/HACC-Hui/HACC-Hui/app
 > cross-env METEOR_NO_RELEASE_CHECK=1 meteor --settings ../config/settings.development.json --port 3400
 
-[[[[[ ~/Documents/GitHub/HACC-Hui/HACC-Hui/app ]]]]]
+[[[[[ ~/HACC-Hui/HACC-Hui/app ]]]]]
 
 => Started proxy.                             
 => Started MongoDB.                           
