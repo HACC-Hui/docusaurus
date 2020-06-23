@@ -8,7 +8,7 @@ To provide a better sense for how the system works, here are some user stories. 
 
 ### HACC Hui Installation
 
-**As a HACC Hui installer, I want to deploy the HACC Hui Meteor application and `hacchui` slackbot, so Administrators and Developers can use the system.**
+**US-I1: As a HACC Hui installer, I want to deploy the HACC Hui Meteor application and `hacchui` slackbot, so Administrators and Developers can use the system.**
 
 There are a lot of tasks involved with HACC Hui installation, but for the purpose of these user stories, there are two key tasks:
 
