@@ -31,7 +31,7 @@ I20200613-09:53:03.365(-10)? ⚡️ Bolt app is running on port 3000!
 => App running at: http://localhost:3400/
 ```
 
-Check both HACC Hui and the Bolt app are running.
+Check both HACC Hui and the Bolt app are running. You should see a line like `⚡️ Bolt app is running on port 3000!` and `App running at: http://localhost:3400/`.
 
 ## Start ngrok to set up a Public URL
 
