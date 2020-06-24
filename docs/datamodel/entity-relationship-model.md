@@ -28,3 +28,12 @@ HACC Hui does not support forward referencing of Slugs. For example, when the ab
 
 Slugs form a unique namespace across all entities: you cannot use the same string to denote an Interest Slug and a Challenge slug, for example.
 
+## Entity Relationships
+
+There are two ways to have entities in a database refer to each other.
+
+One, store the relationship in the entity. For example, a Challenge has a list of interests. We could store the interests in the Challenge document as an array of the interest ids.
+
+Two, create another table to hold the Challenge, Interest pairs.
+
+In HACC Hui, we've chosen the second option. This allows us to easily find the Challenges for a given interest or find the Interests for a given challenge. If we stored the interests in the challenge document it would be much more difficult to find the challenges for a given interest. 
