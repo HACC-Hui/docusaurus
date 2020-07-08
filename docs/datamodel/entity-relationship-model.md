@@ -26,7 +26,7 @@ Second, the interests field contains an array of one slug: "community-engagement
 
 HACC Hui does not support forward referencing of Slugs. For example, when the above CareerGoal definition executes, if a Slug is referenced (such as "community-engagement") that is not defined, then an error is thrown. Thus, the order in which HACC Hui data is loaded is important and there can be no circular dependencies among entity definitions.
 
-Slugs form a unique namespace across all entities: you cannot use the same string to denote an Interest Slug and a Challenge slug, for example.
+Slugs form a unique namespace across all entities: you cannot use the same string to denote an Interest slug and a Challenge slug, for example.
 
 ## Entity Relationships
 
@@ -37,3 +37,18 @@ One, store the relationship in the entity. For example, a Challenge has a list o
 Two, create another table to hold the Challenge, Interest pairs.
 
 In HACC Hui, we've chosen the second option. This allows us to easily find the Challenges for a given interest or find the Interests for a given challenge. If we stored the interests in the challenge document it would be much more difficult to find the challenges for a given interest. 
+
+### Challenges
+
+<img src="/img/datamodel/HACC-HuiChallengeERdiagram.png" width="100%"/>
+
+**Note:** The UserInteraction Collection stores data about the Users' interactions with the Meteor application.
+
+### Teams
+
+<img src="/img/datamodel/HACC-HuiTeamERdiagram.png" width="100%"/>
+
+### Developers
+
+<img src="/img/datamodel/HACC-HuiDeveloperERdiagram.png" width="100%"/>
+
