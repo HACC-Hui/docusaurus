@@ -24,6 +24,11 @@ module.exports = {
         label: 'Data Model',
         items: ['datamodel/class-hierarchy', 'datamodel/entity-relationship-model']
       },
+      {
+        type: 'category',
+        label: 'Team Procedures',
+        items: ['teams/creation', 'teams/milestone-procedures']
+      }
     ],
   },
 };
