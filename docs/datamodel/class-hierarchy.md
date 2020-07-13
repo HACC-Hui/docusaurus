@@ -11,7 +11,7 @@ Based upon our experience with [HACC Hui](https://radgrad.github.io), we've wrap
 
 Here is the resulting HACC Hui collection class hierarchy:
 
-<img src="/img/datamodel/CollectionClassHierarchy.png" width="100%"/>
+<img src="/img/datamodel/HACCHuiCollectionClassHierarchy.png" width="100%"/>
 
 There is one exceptional class: UserCollection, which does not inherit from any of the Base classes.  This is because the UserCollection class encapsulates a "special" MongoDB collection managed by the Meteor.Accounts package. The behavior of this collection is sufficiently different from regular user-defined collections that we did not feel it was appropriate to make it a subclass of any other class. 
 
