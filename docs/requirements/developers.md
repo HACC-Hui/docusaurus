@@ -26,7 +26,7 @@ This user (Mercedez) can now login to HACC Hui using their phone or laptop brows
 
 **US-D2: As a developer, I want to login to HACC Hui and develop my profile, so I can be matched with the best open team.**
 
-Once a developer logs in, they are taken to a profile page. This allows them to fill out a form to specify the following:
+The first time a developer logs in they will fill out the HACC participation form. Then they are taken to a profile page. This allows them to fill out a form to specify the following:
 * Skills: What skills would they like to be associated with.  For each skill, they can specify "Experienced", "Novice", "Don't know, but would like to learn".
 * Tools: What tools would they like to be associated with.  For each tool, they can specify "Experienced", "Novice", "Don't know, but would like to learn".
 * Challenges: What challenges are they interested in working on.  This is a checkbox: they must specify at least one, but can specify up to all of the challenges. 
