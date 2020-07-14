@@ -63,7 +63,7 @@ When the user presses submit, then the app creates the team as long as the team 
 
 **US-D5: As a team owner, I want to update the team to reflect the current status.**
 
-Once a team is created, the challenge, skills, tools, and availability can be edited. The team name cannot be changed.
+Once an owner creates a team, the challenge, skills, tools, availability, and team members can be edited. The team name cannot be changed.
 
 **US-D6: As a team owner, I want to delete the team.**
 
