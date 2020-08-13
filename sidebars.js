@@ -22,7 +22,7 @@ module.exports = {
       {
         type: 'category',
         label: 'Data Model',
-        items: ['datamodel/class-hierarchy', 'datamodel/entity-relationship-model', 'datamodel/validated-methods']
+        items: ['datamodel/class-hierarchy', 'datamodel/entity-relationship-model', 'datamodel/validated-methods', 'datamodel/jsdoc-api']
       },
       {
         type: 'category',
