@@ -37,7 +37,9 @@ The set of challenges, skills, and tools can be expanded at any time by administ
 
 **US-A3: As an administrator, I want to learn the team formation status to better understand the situation.**
 
-All admins have access to a page called "Team Formation Status".  This page provides the current status of all created teams: their names, members, invitations, skills and interests, whether they are open or closed, etc.  
+All admins have access to a page called "Team Formation Status".  This page provides the current status of all created teams: their names, members, invitations, skills and interests, whether they are open or closed, etc. 
+
+On this page the administrator can assign the team's GitHub repository.
 
 The purpose of this page is to provide HACC administrators some real-time insight into the status of team formation, including: how many teams have been created, how many participants have found a team, how many teams are still looking for members, etc. 
 
@@ -50,6 +52,8 @@ The intent is that administrators will check this page on a daily basis during t
 HACC Hui Administrators will have access to a page called "Analytics".  This page will interpret instrumentation (logging) data collected through user interaction with the system in order to answer questions about the team formation process.  The questions are intended to enable HACC Administrators (along with the results of surveys of developers) to improve the team formation process in future years. HACC Hui analytics might also be useful to identify emergent problems with team formation during the current HACC.
 
 Here are some questions that could be answered through an Analytics page.
+
+* How many (and what percentage) of participants have signed their participation agreements. Are there any team members who are non-compliant?
 
 * How many (and what percentage) of participants who register with Slack actually attempt to form a team? The number of participants who attempt to form a team is simply the number of participants who /invited the hacchui slackbot.  The percentage is the number of participants who /invited hacchui divided by the total number of participants in Slack.  (The total number of participants is the total number of users in the workspace minus the number of people in the organizing committee, who cannot be a participant.) We want to minimize this first stage of "attrition", whereby someone who joins the Slack workspace for some reason bails without even trying to form a team.
 

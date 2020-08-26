@@ -21,11 +21,6 @@ module.exports = {
           position: 'left',
         },
         {
-          to: 'file:///Users/carletonmoore/Documents/GitHub/HACC-Hui/HACC-Hui/docs/index.html',
-          label: 'JSDoc',
-          position: 'left',
-        },
-        {
           href: 'https://github.com/HACC-Hui/docusaurus',
           label: 'GitHub',
           position: 'right',
