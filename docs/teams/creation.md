@@ -9,11 +9,11 @@ I have 'randomly' created five teams of four or five developers.
 <tr><th>Team</th><th>Dev 1</th><th>Dev 2</th><th>Dev 3</th><th>Dev 4</th><th>Dev 5</th></tr>
 </thead>
 <tbody>
-<tr><td>A</td><td>Christine Uehara</td><td>Nadine Alcantara</td><td>Angeli Amascual</td><td>Newton Rasner</td><td>Justin Wong</td></tr>
-<tr><td>B</td><td>James Bennett</td><td>Kelli Tamashiro</td><td>Lucy Rock</td><td>Jennifer Hsu</td><td></td></tr>
-<tr><td>C</td><td>Taylor Gabatino</td><td>Matthew Kim</td><td>Ryan Mangubat</td><td>Kason Shiroma</td><td>Byrson Yuen</td></tr>
-<tr><td>D</td><td>Joshua Hartmann</td><td>Isaac Lee</td><td>Manalu Nakanishi</td><td>Joel Sikkink</td><td></td></tr>
-<tr><td>E</td><td>Jiajun Kang</td><td>Weihang Mai</td><td>Kyle Okamoto</td><td>Ty Uehara</td><td>Nathan Zenger</td></tr>
+<tr><td>LevelUpTeamA</td><td>Christine Uehara</td><td>Nadine Alcantara</td><td>Angeli Amascual</td><td>Newton Rasner</td><td>Justin Wong</td></tr>
+<tr><td>Team 400IQ</td><td>James Bennett</td><td>Kelli Tamashiro</td><td>Lucy Rock</td><td>Jennifer Hsu</td><td></td></tr>
+<tr><td>Team CCC</td><td>Taylor Gabatino</td><td>Matthew Kim</td><td>Kason Shiroma</td><td>Byrson Yuen</td><td></td></tr>
+<tr><td>MIJJ</td><td>Joshua Hartmann</td><td>Isaac Lee</td><td>Manalu Nakanishi</td><td>Joel Sikkink</td><td></td></tr>
+<tr><td>CodeMonkeys5</td><td>Kyle Okamoto</td><td>Nathan Zenger</td><td>Ty Uehara</td><td></td><td></td></tr>
 </tbody>
 </table>
 
