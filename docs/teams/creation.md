@@ -6,7 +6,7 @@ sidebar_label: ICS414F20 Teams
 I have 'randomly' created five teams of four or five developers.
 <table>
 <thead>
-<tr><th>Team</th><th>Dev 1</th><th>Dev 2</th><th>Dev 4</th><th>Dev 4</th><th>Dev 5</th></tr>
+<tr><th>Team</th><th>Dev 1</th><th>Dev 2</th><th>Dev 3</th><th>Dev 4</th><th>Dev 5</th></tr>
 </thead>
 <tbody>
 <tr><td>A</td><td>Christine Uehara</td><td>Nadine Alcantara</td><td>Angeli Amascual</td><td>Newton Rasner</td><td>Justin Wong</td></tr>
