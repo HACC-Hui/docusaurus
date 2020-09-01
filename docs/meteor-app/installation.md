@@ -30,6 +30,8 @@ found 0 vulnerabilities
 HACC-Hui $
 ```
 
+Copy the `example.env` file to `.env`. This is necessary for the Bolt slackbot. Don't worry about the values for the token and signing secret. We'll change them later.
+
 To make sure the database starts from an empty state, run:
 
 ```
