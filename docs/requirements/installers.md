@@ -4,11 +4,11 @@ sidebar_label: Installer Stories
 ---
 
 ## User stories
-To provide a better sense for how the system works, here are some user stories.  There are several types of users of HACC Hui. "Installers" are software developers who have implemented the system and have brought up an instance. ["Administrators"](administrators) are privileged users who are normally members of the program committee.  ["Developers"](developers) are HACC participants. You cannot be both an Administrator and a Developer.
+To provide a better sense for how the system works, here are some user stories.  There are several types of users of HACC Hui. "Installers" are software developers who have implemented the system and have brought up an instance. ["Administrators"](administrators) are privileged users who are normally members of the program committee.  ["Participants"](participants) are HACC participants. You cannot be both an Administrator and a Participant.
 
 ### HACC Hui Installation
 
-**US-I1: As a HACC Hui installer, I want to deploy the HACC Hui Meteor application and `hacchui` slackbot, so Administrators and Developers can use the system.**
+**US-I1: As a HACC Hui installer, I want to deploy the HACC Hui Meteor application and `hacchui` slackbot, so Administrators and Participants can use the system.**
 
 There are a lot of tasks involved with HACC Hui installation, but for the purpose of these user stories, there are two key tasks:
 

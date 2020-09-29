@@ -25,7 +25,7 @@ Now we are going to add the Permissions out slackbot needs. Click on `OAuth & Pe
 
 <img src="/img/developer/bot-scopes.png" width="100%"/>
 
-Click `Add an OAuth Scope`. Then add `app_mentions:read`, `chat:write`, `im:history`, `im:read`, `im:write`, and `users.profile:read`. This should give our slackbot enough permissions to interact with the developers and administrators.
+Click `Add an OAuth Scope`. Then add `app_mentions:read`, `chat:write`, `im:history`, `im:read`, `im:write`, and `users.profile:read`. This should give our slackbot enough permissions to interact with the participants and administrators.
 
 <img src="/img/developer/selected-scopes.png" width="100%"/>
 

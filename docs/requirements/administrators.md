@@ -49,7 +49,7 @@ The intent is that administrators will check this page on a daily basis during t
 
 **US-A4: As an administrator, I want to see analytics of user interactions to improve team formation process in future years.**
 
-HACC Hui Administrators will have access to a page called "Analytics".  This page will interpret instrumentation (logging) data collected through user interaction with the system in order to answer questions about the team formation process.  The questions are intended to enable HACC Administrators (along with the results of surveys of developers) to improve the team formation process in future years. HACC Hui analytics might also be useful to identify emergent problems with team formation during the current HACC.
+HACC Hui Administrators will have access to a page called "Analytics".  This page will interpret instrumentation (logging) data collected through user interaction with the system in order to answer questions about the team formation process.  The questions are intended to enable HACC Administrators (along with the results of surveys of participants) to improve the team formation process in future years. HACC Hui analytics might also be useful to identify emergent problems with team formation during the current HACC.
 
 Here are some questions that could be answered through an Analytics page.
 
@@ -71,4 +71,4 @@ Here are some questions that could be answered through an Analytics page.
 
 * What skills and interests are needed by teams? This analyzes Team Profile logging data to find out what skills and tools teams look for.
 
-The next page discusses the developer user stories.
+The next page discusses the participant user stories.

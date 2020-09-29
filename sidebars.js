@@ -10,7 +10,7 @@ module.exports = {
           {
             type: 'category',
             label: 'User Stories',
-            items: ['requirements/installers','requirements/administrators', 'requirements/developers', 'requirements/future'],
+            items: ['requirements/installers','requirements/administrators', 'requirements/participants', 'requirements/future'],
           },
           {
             type: 'category',
