@@ -28,7 +28,29 @@ module.exports = {
         type: 'category',
         label: 'Team Procedures',
         items: ['teams/creation', 'teams/milestone-procedures']
-      }
+      },
+      {
+        type: 'category',
+        label: 'Deployment',
+        items: [ 'developers/deployment/overview',
+          {
+            type: 'category',
+            label: 'Concepts',
+            items: [
+            ]
+          },
+          {
+            type: 'category',
+            label: 'How to...',
+            items: [
+              'developers/deployment/howto/build-a-release',
+              'developers/deployment/howto/deploy-a-release',
+              'developers/deployment/howto/docker-management',
+              'developers/deployment/howto/setup-https',
+            ]
+          },
+        ],
+      },
     ],
   },
 };
