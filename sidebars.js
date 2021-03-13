@@ -2,7 +2,7 @@ module.exports = {
   someSidebar: {
     Overview: ['overview/introduction', 'overview/motivation'],
     DeveloperGuide: ['meteor-app/installation', 'slackbot/create-hacc-hui-slackbot', 'meteor-app/running-hacc-hui',
-        'meteor-app/ide', 'meteor-app/source-code-organization', 'meteor-app/coding-standards',
+      'meteor-app/ide', 'meteor-app/source-code-organization', 'meteor-app/coding-standards',
       {
         type: 'category',
         label: 'Requirements',
@@ -10,7 +10,7 @@ module.exports = {
           {
             type: 'category',
             label: 'User Stories',
-            items: ['requirements/installers','requirements/administrators', 'requirements/participants', 'requirements/future'],
+            items: ['requirements/installers', 'requirements/administrators', 'requirements/participants', 'requirements/future'],
           },
           {
             type: 'category',
@@ -32,12 +32,11 @@ module.exports = {
       {
         type: 'category',
         label: 'Deployment',
-        items: [ 'developers/deployment/overview',
+        items: ['developers/deployment/overview',
           {
             type: 'category',
             label: 'Concepts',
-            items: [
-            ]
+            items: []
           },
           {
             type: 'category',
@@ -45,6 +44,7 @@ module.exports = {
             items: [
               'developers/deployment/howto/build-a-release',
               'developers/deployment/howto/deploy-a-release',
+              'developers/deployment/howto/reset-db',
               'developers/deployment/howto/docker-management',
               'developers/deployment/howto/setup-https',
             ]

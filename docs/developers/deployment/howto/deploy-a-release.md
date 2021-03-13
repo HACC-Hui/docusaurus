@@ -35,7 +35,7 @@ I followed the standard docker-compose installation instructions.
 
 ### Clone hacchui-docker
 
-Next, clone the [hacchui-docker repository](https://github.com/HACC-Hui/hacchui-docker) with `git clone https://github.com/hacchui/hacchui-docker.git`.
+Next, clone the [hacchui-docker repository](https://github.com/HACC-Hui/hacchui-docker) with `git clone https://github.com/HACC-Hui/hacchui-docker.git`.
 
 ### Create config/settings.production.json
 
