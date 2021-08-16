@@ -8,8 +8,8 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Supporting HACC 2020</>,
-    imageUrl: 'img/hacc.png',
+    title: <>Supporting HACC 2021</>,
+    imageUrl: 'img/HACC_icon_2021.jpg',
     description: (
       <>
         Simplifying team formation and ongoing team management.
